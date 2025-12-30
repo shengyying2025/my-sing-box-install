@@ -26,14 +26,14 @@
 ### 在线安装
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/shengying2025/my-sing-box-install/main/syy-sing-box.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/shengyying2025/my-sing-box-install/main/syy-sing-box.sh)
 ```
 
 ### 手动下载安装
 
 ```bash
 # 下载脚本
-wget https://raw.githubusercontent.com/shengying2025/my-sing-box-install/main/syy-sing-box.sh
+wget https://raw.githubusercontent.com/shengyying2025/my-sing-box-install/main/syy-sing-box.sh
 
 # 添加执行权限
 chmod +x syy-sing-box.sh
